@@ -4,7 +4,7 @@ Use this template to quickly get started writing simple Python console applicati
 
 ## Steps
 
-### Create a codespace
+### Create a codespace from this template
 
 At the top of the [repository page](https://github.com/repercussive/simple-python-codespace), click "Code" -> "Create codespace on main". This can take a couple minutes to set up.
 
