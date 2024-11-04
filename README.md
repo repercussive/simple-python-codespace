@@ -4,6 +4,10 @@ Use this template to quickly get started writing simple Python console applicati
 
 ## Steps
 
+### Log into GitHub
+
+You'll have to be logged into GitHub, or create an account if you don't have one. [Click here to sign up to GitHub](https://github.com/signup).
+
 ### Create a codespace from this template
 
 At the top of the [repository page](https://github.com/repercussive/simple-python-codespace), click "Code" -> "Create codespace on main". This can take a couple minutes to set up.
